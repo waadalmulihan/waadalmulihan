@@ -20,34 +20,40 @@ I enjoy exploring how software works and building my problem-solving abilities w
 
 * Programming fundamentals
 * **C++**
-* **HTML & CSS**
+* **Java**
+* **Python**
+* **HTML, CSS & JavaScript**
 * Problem solving
-* UI / UX basics
+* **UI / UX design using Figma**
 
 ---
 
 ## 🛠️ Tools & Technologies
 
 ![C++](https://img.shields.io/badge/C++-7c60d1?style=flat\&logo=cplusplus\&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-fd0098?style=flat\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-42ff97?style=flat\&logo=css3\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-ff7c7e?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-319e8d?style=flat\&logo=github\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-fd0098?style=flat\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-42ff97?style=flat\&logo=python\&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-ff7c7e?style=flat\&logo=javascript\&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat\&logo=css3\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-319e8d?style=flat\&logo=figma\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-fd7cff?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-7c60d1?style=flat\&logo=github\&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div class="badges-githubstats">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&hide_border=true&count_private=true&bg_color=111%2C082421%2C0D1117&title_color=7c60d1&text_color=f0f0f5&icon_color=319e8d&border_color=131313&border_radius=10" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api?username=waadalmulihan&show_icons=true&hide_border=true&count_private=true&bg_color=111%2C082421%2C0D1117&title_color=7c60d1&text_color=f0f0f5&icon_color=319e8d&border_color=131313&border_radius=10" height="140" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&hide_border=true&background=082421&border=131313&stroke=c7b8ff&ring=fd7cff&fire=fd0098&currStreakNum=c7b8ff&currStreakLabel=7c60d1&sideNums=c7b8ff&sideLabels=7c60d1&dates=f0f0f5&border_radius=10" height="140" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waadalmulihan&hide_border=true&background=082421&border=131313&stroke=c7b8ff&ring=fd7cff&fire=fd0098&currStreakNum=c7b8ff&currStreakLabel=7c60d1&sideNums=c7b8ff&sideLabels=7c60d1&dates=f0f0f5&border_radius=10" height="140" />
 </div>
 
 ---
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&bg_color=111%2C082421%2C0D1117&title_color=7c60d1&text_color=f0f0f5&hide_border=true&border_radius=10&border_color=131313" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waadalmulihan&layout=compact&bg_color=111%2C082421%2C0D1117&title_color=7c60d1&text_color=f0f0f5&hide_border=true&border_radius=10&border_color=131313" />
 </div>
 
 ---
