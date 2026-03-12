@@ -1,6 +1,6 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:1a0f2e,50:2d1b4e,100:1a0f2e\&height=300\&section=header\&text=Hi%20World!%20I'm%20Waad\&fontSize=70\&fontColor=f0f0f5\&animation=fadeIn\&fontAlignY=38\&desc=Computer%20Science%20Student%20•%20Learning%20Programming%20•%20Future%20Developer\&descSize=20\&descAlignY=55)]()
 
-# 👩🏻‍💻 Waad — GitHub Profile
+# 👩🏻‍💻 Waad Almulihan — GitHub Profile
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C60D1&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Computer+Science+Student;Learning+C%2B%2B+%26+Web+Development;Exploring+UI%2FUX+Design;Building+Skills+Step+by+Step" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 
 ## 📌 About Me
 
-Hi! I'm **Waad**, a Computer Science student currently learning programming and improving my technical skills.
+Hi! I'm **Waad Almulihan**, a Computer Science student currently learning programming and improving my technical skills.
 
 I enjoy exploring how software works and building my problem-solving abilities while studying computer science.
 
